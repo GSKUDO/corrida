@@ -1,0 +1,29 @@
+body {
+    background-image: url(quadriculado.png);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    width: 100px;
+    height: 50px;
+    margin: 20px;
+}
+
+#rapida {
+    background-color: red;
+}
+
+#gp {
+    background-color: yellow;
+}
+
+#enduro {
+    background-color: green;
+}
+
+h1 {
+    background-color: white;
+}
